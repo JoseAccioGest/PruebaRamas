@@ -25,6 +25,7 @@ public class BattleShip extends Application {
 
     @Override
     public void start(Stage primaryStage) {
+        System.out.println("oakjndsijbasdib");
         vista = new AnchorPane();
 
         Image image = new Image(getClass().getResourceAsStream(IMG_PATH));
